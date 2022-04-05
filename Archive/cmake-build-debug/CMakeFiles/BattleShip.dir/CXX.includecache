@@ -1,0 +1,142 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/ai_player.cpp
+ai_player.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/ai_player.h
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/ai_player.h
+player.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/player.h
+random
+-
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/board.cpp
+board.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/board.h
+iostream
+-
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/board.h
+vector
+-
+string
+-
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/cheating_ai.cpp
+cheating_ai.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/cheating_ai.h
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/cheating_ai.h
+ai_player.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/ai_player.h
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/game.cpp
+game.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/game.h
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/game.h
+player.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/player.h
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/human_player.cpp
+human_player.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/human_player.h
+sstream
+-
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/human_player.h
+player.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/player.h
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/hunt_destroy_ai.cpp
+hunt_destroy_ai.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/hunt_destroy_ai.h
+algorithm
+-
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/hunt_destroy_ai.h
+random_ai.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/random_ai.h
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/main.cpp
+iostream
+-
+fstream
+-
+memory
+-
+other.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/other.h
+ships.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/ships.h
+board.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/board.h
+player.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/player.h
+game.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/game.h
+ai_player.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/ai_player.h
+human_player.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/human_player.h
+random_ai.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/random_ai.h
+cheating_ai.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/cheating_ai.h
+hunt_destroy_ai.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/hunt_destroy_ai.h
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/other.cpp
+other.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/other.h
+iostream
+-
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/other.h
+string
+-
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/player.cpp
+player.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/player.h
+sstream
+-
+utility
+-
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/player.h
+string
+-
+iostream
+-
+board.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/board.h
+ships.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/ships.h
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/random_ai.cpp
+random_ai.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/random_ai.h
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/random_ai.h
+ai_player.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/ai_player.h
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/ships.cpp
+ships.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/ships.h
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/Archive/ships.h
+map
+-
+fstream
+-
+iostream
+-
+

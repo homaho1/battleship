@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="BattleShip"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/howardma/Desktop/Spring\ 21/ECS\ 36B/HW4\ copy/BattleShip/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/howardma/Desktop/Spring\ 21/ECS\ 36B/HW4\ copy/BattleShip/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/howardma/Desktop/Spring\ 21/ECS\ 36B/HW4\ copy/BattleShip/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/howardma/Desktop/Spring\ 21/ECS\ 36B/HW4\ copy/BattleShip/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/howardma/Desktop/Spring\ 21/ECS\ 36B/HW4\ copy/BattleShip/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/howardma/Desktop/Spring\ 21/ECS\ 36B/HW4\ copy/BattleShip/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/howardma/Desktop/Spring\ 21/ECS\ 36B/HW4\ copy/BattleShip/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/howardma/Desktop/Spring\ 21/ECS\ 36B/HW4\ copy/BattleShip/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/howardma/Desktop/Spring\ 21/ECS\ 36B/HW4\ copy/BattleShip/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/howardma/Desktop/Spring\ 21/ECS\ 36B/HW4\ copy/BattleShip/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/howardma/Desktop/Spring\ 21/ECS\ 36B/HW4\ copy/BattleShip/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/howardma/Desktop/Spring\ 21/ECS\ 36B/HW4\ copy/BattleShip/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BattleShip">
+				<Option output="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/cmake-build-debug/BattleShip" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/howardma/Desktop/Spring\ 21/ECS\ 36B/HW4\ copy/BattleShip/cmake-build-debug/Makefile&quot;  VERBOSE=1 BattleShip"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/howardma/Desktop/Spring\ 21/ECS\ 36B/HW4\ copy/BattleShip/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/howardma/Desktop/Spring\ 21/ECS\ 36B/HW4\ copy/BattleShip/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/howardma/Desktop/Spring\ 21/ECS\ 36B/HW4\ copy/BattleShip/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BattleShip/fast">
+				<Option output="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/cmake-build-debug/BattleShip" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/howardma/Desktop/Spring\ 21/ECS\ 36B/HW4\ copy/BattleShip/cmake-build-debug/Makefile&quot;  VERBOSE=1 BattleShip/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/howardma/Desktop/Spring\ 21/ECS\ 36B/HW4\ copy/BattleShip/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/howardma/Desktop/Spring\ 21/ECS\ 36B/HW4\ copy/BattleShip/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/howardma/Desktop/Spring\ 21/ECS\ 36B/HW4\ copy/BattleShip/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/ai_player.cpp">
+			<Option target="BattleShip"/>
+		</Unit>
+		<Unit filename="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/ai_player.h">
+			<Option target="BattleShip"/>
+		</Unit>
+		<Unit filename="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/board.cpp">
+			<Option target="BattleShip"/>
+		</Unit>
+		<Unit filename="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/board.h">
+			<Option target="BattleShip"/>
+		</Unit>
+		<Unit filename="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/cheating_ai.cpp">
+			<Option target="BattleShip"/>
+		</Unit>
+		<Unit filename="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/cheating_ai.h">
+			<Option target="BattleShip"/>
+		</Unit>
+		<Unit filename="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/game.cpp">
+			<Option target="BattleShip"/>
+		</Unit>
+		<Unit filename="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/game.h">
+			<Option target="BattleShip"/>
+		</Unit>
+		<Unit filename="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/human_player.cpp">
+			<Option target="BattleShip"/>
+		</Unit>
+		<Unit filename="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/human_player.h">
+			<Option target="BattleShip"/>
+		</Unit>
+		<Unit filename="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/hunt_destroy_ai.cpp">
+			<Option target="BattleShip"/>
+		</Unit>
+		<Unit filename="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/hunt_destroy_ai.h">
+			<Option target="BattleShip"/>
+		</Unit>
+		<Unit filename="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/main.cpp">
+			<Option target="BattleShip"/>
+		</Unit>
+		<Unit filename="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/other.cpp">
+			<Option target="BattleShip"/>
+		</Unit>
+		<Unit filename="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/other.h">
+			<Option target="BattleShip"/>
+		</Unit>
+		<Unit filename="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/player.cpp">
+			<Option target="BattleShip"/>
+		</Unit>
+		<Unit filename="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/player.h">
+			<Option target="BattleShip"/>
+		</Unit>
+		<Unit filename="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/random_ai.cpp">
+			<Option target="BattleShip"/>
+		</Unit>
+		<Unit filename="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/random_ai.h">
+			<Option target="BattleShip"/>
+		</Unit>
+		<Unit filename="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/ships.cpp">
+			<Option target="BattleShip"/>
+		</Unit>
+		<Unit filename="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/ships.h">
+			<Option target="BattleShip"/>
+		</Unit>
+		<Unit filename="/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

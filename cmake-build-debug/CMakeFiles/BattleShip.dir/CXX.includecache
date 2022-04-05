@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/board.h
+vector
+-
+string
+-
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/player.cpp
+player.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/player.h
+sstream
+-
+utility
+-
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/player.h
+string
+-
+iostream
+-
+board.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/board.h
+ships.h
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/ships.h
+
+/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/ships.h
+map
+-
+fstream
+-
+iostream
+-
+

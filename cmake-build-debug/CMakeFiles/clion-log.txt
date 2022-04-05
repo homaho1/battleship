@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/howardma/Desktop/Spring 21/ECS 36B/HW4 copy/BattleShip/cmake-build-debug
